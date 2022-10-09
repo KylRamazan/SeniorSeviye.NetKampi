@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZv7127YVtNTr5juIWdpAWwsblr1fW/x7T7KH//at4kyzSspslTSGnb62BXLCb4KH5+y2iHvHu9ALvOozag/cA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHubProjects\\.NetKampi\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramazan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
